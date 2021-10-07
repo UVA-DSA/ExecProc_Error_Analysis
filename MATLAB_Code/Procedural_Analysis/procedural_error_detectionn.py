@@ -1,6 +1,7 @@
 # Zongyu Li 11/10/2020
 # Procedural Error Analysis of JIGSAWS dataset 
 # this function outputs an array of objects given the grammar graph and the data including the gesture sequences
+# use the .npy file as the 'data' input
 
 def seq_checking(G,data):  
   """
