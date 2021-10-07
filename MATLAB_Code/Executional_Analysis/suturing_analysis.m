@@ -10,9 +10,9 @@
 % containing the kinematic data, the subject, and a nor/err label
 
 % directories
-transcriptionDir = 'C:\Users\Student\Documents\UVA Files\Grad\Research\JIGSAWS Dataset\Suturing\Suturing\transcriptions';
-kinematicDir = 'C:\Users\Student\Documents\UVA Files\Grad\Research\JIGSAWS Dataset\Suturing\Suturing\kinematics\AllGestures';
-labelDir = 'C:\Users\Student\Documents\UVA Files\Grad\Research\IJCARS Paper\Consensus_error_labels_suturing';
+transcriptionDir = '/JIGSAWS Dataset\Suturing\Suturing\transcriptions';  % path to JIGSAWS transcripts
+kinematicDir = '\JIGSAWS Dataset\Suturing\Suturing\kinematics\AllGestures';  % path to JIGSAWS kinematic files
+labelDir = '\Consensus_error_labels_suturing';   % path to error labels for suturing
 
 % gets all csv files in struct
 labelFiles = dir(fullfile(labelDir,'*.csv')); %gets all csv files in struct
