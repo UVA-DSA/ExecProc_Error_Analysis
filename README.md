@@ -10,6 +10,6 @@ Link to project page: [https://uva-dsa.github.io/ExecProc_Error_Analysis/](https
 
 
 ## Publications
-["Analysis of Executional and Procedural Errors in Dry-lab Robotic Surgery Experiments"](https://arxiv.org/abs/2106.11962)
-K. Hutchinson, Z. Li, L. A. Cantrell, N. S. Schenkman, H. Alemzadeh
+["Analysis of Executional and Procedural Errors in Dry-lab Robotic Surgery Experiments"](https://arxiv.org/abs/2106.11962) </br> 
+K. Hutchinson, Z. Li, L. A. Cantrell, N. S. Schenkman, H. Alemzadeh </br>
 Under review for publication in the Internation Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS)
