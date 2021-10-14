@@ -22,6 +22,8 @@ kinematicDir = 'C:\Users\JIGSAWS\Suturing\Suturing\kinematics\AllGestures';
 labelDir = 'C:\Users\Error_Labels\Consensus_error_labels_suturing';
 ```
 
+The intermediate .mat data files are included in this repository, but you can run different sections of the MATLAB script to regenerate them, or apply our methods to your own dataset.
+
 ## Publications
 ["Analysis of Executional and Procedural Errors in Dry-lab Robotic Surgery Experiments"](https://arxiv.org/abs/2106.11962) </br> 
 K. Hutchinson, Z. Li, L. A. Cantrell, N. S. Schenkman, H. Alemzadeh </br>
