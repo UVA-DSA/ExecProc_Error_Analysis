@@ -10,10 +10,10 @@ Link to project page: [https://uva-dsa.github.io/ExecProc_Error_Analysis/](https
 
 
 ### Pre-requisites
-You will need to download the [JIGSAWS dataset](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/) and enter the filepaths to the 'transcriptions', 'kinematics', and 'label' folders in the MATLAB scripts. (Note that the relativeEntropy function requires at least MATLAB R2020a to run along with the appropriate toolboxes.) <\br>
-'transcriptionDir' is the filepath to the 'transcription' folder of a task in the JIGSAWS dataset. <\br>
-'kinematicDir' is the filepath to the folder containing the kinematic data of a task in the JIGSAWS dataset. <\br>
-'labelDir' is the filepath to the folder containing the executional error labels downloaded from this repository. <\br>
+You will need to download the [JIGSAWS dataset](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/) and enter the filepaths to the 'transcriptions', 'kinematics', and 'label' folders in the MATLAB scripts. (Note that the relativeEntropy function requires at least MATLAB R2020a to run along with the appropriate toolboxes.) </br>
+'transcriptionDir' is the filepath to the 'transcription' folder of a task in the JIGSAWS dataset. </br>
+'kinematicDir' is the filepath to the folder containing the kinematic data of a task in the JIGSAWS dataset. </br>
+'labelDir' is the filepath to the folder containing the executional error labels downloaded from this repository. </br>
 
 For example: 
 ```sh
